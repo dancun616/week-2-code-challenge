@@ -1,0 +1,19 @@
+body{
+  background-color: bisque;
+ 
+}
+h1{  
+  font-family:sans-serif;
+}
+span{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 45%;
+  display: block;
+  cursor: pointer;
+  font-size: 25px;
+  width: fit-content;
+}
+.paragraph ,.container ,h4 ,h1 ,span ,.votes{
+  text-align: center;
+
+}

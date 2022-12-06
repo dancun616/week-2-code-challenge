@@ -23,7 +23,7 @@ week-2-code-challenge in local repository
 
 To open site in browser:
 
-First run (json-server --watch db.json) to ensure backend server is running.
+First run [json-server --watch db.json] to ensure backend server is running.
 
 explorer.exe index.html
 

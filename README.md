@@ -15,13 +15,15 @@ HTML, CSS and JavaScript.
 
 
 ## Installation
-clone project from github:  git@github.com:dancun616/week-2-code-challenge.git
+clone project from github:  git@github.com :dancun616/week-2-code-challenge.git
 
 Navigate into file:
 
 week-2-code-challenge in local repository
 
 To open site in browser:
+
+First run json-server --watch db.json to ensure backend server is running.
 
 explorer.exe index.html
 

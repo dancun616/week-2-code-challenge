@@ -19,11 +19,14 @@ clone project from github:  git@github.com :dancun616/week-2-code-challenge.git
 
 Navigate into file:
 
-week-2-code-challenge in local repository
+    week-2-code-challenge in local repository
 
 To open site in browser:
 
-First run json-server --watch db.json on the terminal to ensure backend server is running.
+First run
+
+    json-server --watch db.json 
+on the terminal to ensure backend server is running.
 
 explorer.exe index.html
 
